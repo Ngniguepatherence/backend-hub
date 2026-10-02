@@ -1,0 +1,41 @@
+# Dependencies
+node_modules
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build folders
+dist
+build
+coverage
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Docker files
+Dockerfile
+docker-compose.yml
+
+# Git
+.git
+.gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode
+.idea
